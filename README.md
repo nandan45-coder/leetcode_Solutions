@@ -44,6 +44,7 @@ Daily Leetcode updates
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Daily Leetcode updates
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,12 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
