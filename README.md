@@ -20,6 +20,7 @@ Daily Leetcode updates
 | [0151-reverse-words-in-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -104,6 +105,11 @@ Daily Leetcode updates
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
