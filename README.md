@@ -142,10 +142,12 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,4 +156,5 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
