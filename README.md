@@ -69,6 +69,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ Daily Leetcode updates
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -151,6 +153,7 @@ Daily Leetcode updates
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -163,5 +166,10 @@ Daily Leetcode updates
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
