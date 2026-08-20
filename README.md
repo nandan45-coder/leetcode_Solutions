@@ -16,6 +16,7 @@ Daily Leetcode updates
 | [1768-merge-strings-alternately](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Daily Leetcode updates
 | [1732-find-the-highest-altitude](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@ Daily Leetcode updates
 | [0735-asteroid-collision](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Ordered Set
 |  |
