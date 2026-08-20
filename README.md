@@ -80,6 +80,7 @@ Daily Leetcode updates
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
@@ -129,6 +130,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -240,4 +242,12 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0399-evaluate-division) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
