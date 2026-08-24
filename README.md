@@ -38,6 +38,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -279,4 +281,8 @@ Daily Leetcode updates
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0216-combination-sum-iii) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
