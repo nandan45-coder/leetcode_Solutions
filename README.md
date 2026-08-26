@@ -312,4 +312,5 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
