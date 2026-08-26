@@ -46,6 +46,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0216-combination-sum-iii) |
@@ -307,4 +308,8 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
