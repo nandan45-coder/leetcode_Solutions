@@ -24,6 +24,7 @@ Daily Leetcode updates
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
@@ -106,6 +107,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -164,6 +166,7 @@ Daily Leetcode updates
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -313,4 +316,8 @@ Daily Leetcode updates
 | ------- |
 | [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
