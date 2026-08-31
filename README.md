@@ -47,6 +47,7 @@ Daily Leetcode updates
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0162-find-peak-element) |
@@ -115,6 +116,7 @@ Daily Leetcode updates
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
