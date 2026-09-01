@@ -48,6 +48,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0162-find-peak-element) |
@@ -144,6 +145,7 @@ Daily Leetcode updates
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -352,6 +354,7 @@ Daily Leetcode updates
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
