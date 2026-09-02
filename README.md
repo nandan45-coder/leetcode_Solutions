@@ -41,6 +41,7 @@ Daily Leetcode updates
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -181,6 +182,7 @@ Daily Leetcode updates
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
 ## Design
@@ -203,6 +205,7 @@ Daily Leetcode updates
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
