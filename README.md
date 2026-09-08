@@ -48,6 +48,7 @@ Daily Leetcode updates
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
