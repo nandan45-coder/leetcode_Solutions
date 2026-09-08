@@ -26,6 +26,7 @@ Daily Leetcode updates
 | [0005-longest-palindromic-substring](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -111,6 +112,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0198-house-robber) |
@@ -193,6 +195,7 @@ Daily Leetcode updates
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/nandan45-coder/leetcode_Solutions/tree/master/0394-decode-string) |
 ## Design
